@@ -4,4 +4,4 @@ Projeto Clone Spotify
 
 ** Meu primeiro projeto no  Github **
 
-Descompactar os arquivos imagens.7z e bootstrap.7z para que o CSS seja aplicado.
+Projeto de aprendizado finalizado. Utilizado apenas HTML5, CSS3 E BOOTSTRAP
