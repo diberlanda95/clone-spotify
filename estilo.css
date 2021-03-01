@@ -51,12 +51,13 @@ nav.navbar-transparente{
     margin: 16px 10px;
 }
 
-.navbar-inverse .navbar-nav>li>a{
+.navbar-inverse .navbar-nav>li>a, footer .nav a{
     color: white;
 }
 
-.navbar-inverse .navbar-nav>li>a:hover {
+.navbar-inverse .navbar-nav>li>a:hover, footer .nav a:hover {
     color: #9bf0e1;
+    background: none;
 }
 
 /* -- Imagem de Capa Principal -- */
@@ -92,6 +93,17 @@ nav.navbar-transparente{
     padding-bottom: 20px;
 }
 
+/* rodapé */
+
+footer{
+    background: #000;
+    padding: 50px 0px 20px 0px;
+    position: relative;
+}
+
+.item-rede-social{
+    float: right;
+}
 
 /*--TIPOGRAFIA */
 
@@ -129,6 +141,12 @@ h3{
 
 #recursos p{
     color: white;
+}
+
+#rodape h4{
+    color: #919496;
+    font-size: 12px;
+    text-transform: uppercase;
 }
 
 /* BOTOES */
